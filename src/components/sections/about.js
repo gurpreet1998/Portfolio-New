@@ -139,7 +139,7 @@ const About = () => {
     'Web Services',
     'Machine Learning',
     'SQL',
-    'PL/Sql'
+    'PL/Sql',
   ];
 
   return (
