@@ -26,17 +26,15 @@ const Head = ({ title, description, image }) => {
   );
 
   const {
-    defaultTitle,
-    defaultDescription,
     siteUrl,
     defaultImage,
     twitterUsername,
   } = site.siteMetadata;
 
   const seo = {
-    title: title || defaultTitle,
-    description: description || defaultDescription,
-    image: `${siteUrl}${image || defaultImage}`,
+    title: 'Gurpreet Singh',
+    description: description,
+    image: `${siteUrl}${image}`,
     url: `${siteUrl}${pathname}`,
   };
 
