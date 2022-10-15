@@ -138,6 +138,8 @@ const About = () => {
     'Azure Cloud Services',
     'Web Services',
     'Machine Learning',
+    'SQL',
+    'PL/Sql'
   ];
 
   return (
