@@ -26,6 +26,7 @@ const Head = ({ title, description, image }) => {
   );
 
   const {
+    defaultTitle,
     siteUrl,
     defaultImage,
     twitterUsername,
