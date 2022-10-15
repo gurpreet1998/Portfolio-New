@@ -179,7 +179,7 @@ const Projects = () => {
                 'https://github.com/gurpreet1998/Hackathon-Project/tree/main/Face%20Detection',
             },
             html:
-              '<p>A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.</p>',
+              '<p>Developed desktop UI applicaiton using Python, CNN and QT designer to mark attendance using facial detection and recognition</p>',
           },
         },
         {
