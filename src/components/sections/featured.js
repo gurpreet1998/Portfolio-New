@@ -317,9 +317,9 @@ const Featured = () => {
 
                     images: {
                       fallback: {
-                        src: '../../../content/projects/images/halcyon.png',
+                        src: '/content/projects/images/halcyon.png',
                         srcSet:
-                          '../../../content/projects/images/halcyon.png 175w,\n../../../content/projects/images/halcyon.png 350w,\n../../../content/projects/images/halcyon.png 700w',
+                          '/content/projects/images/halcyon.png 175w,\n/content/projects/images/halcyon.png 350w,\n/content/projects/images/halcyon.png 700w',
                         sizes: '(min-width: 700px) 700px, 100vw',
                       },
                       sources: [
