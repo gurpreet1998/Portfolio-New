@@ -67,7 +67,9 @@ const Hero = () => {
         I'm a graduate student, pursuing Computer Engineering, at Santa Clara University with
         interest in Software development and Machine learning. I have more than 2 years of
         experience as a Cloud software development engineer at Hanu software where I had build and
-        deployed scalable cloud native large-scale multi-tiered systems.
+        deployed scalable cloud native large-scale multi-tiered systems.I am actively looking for
+        Summer 2023 internship positions in software development and machine learning domain.
+        Please feel free to contact me if you find my skills relevant to your position and project :)
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
