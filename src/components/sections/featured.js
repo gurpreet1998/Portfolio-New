@@ -317,9 +317,10 @@ const Featured = () => {
 
                     images: {
                       fallback: {
-                        src: '/content/projects/images/halcyon.png',
+                        src:
+                          'https://drive.google.com/file/d/1JVnFg4x1EJ9xbsR5-jA_B4k1UIOKKTue/view?usp=sharing',
                         srcSet:
-                          '/content/projects/images/halcyon.png 175w,\n/content/projects/images/halcyon.png 350w,\n/content/projects/images/halcyon.png 700w',
+                          'https://drive.google.com/file/d/1JVnFg4x1EJ9xbsR5-jA_B4k1UIOKKTue/view?usp=sharing 175w,\n/https://drive.google.com/file/d/1JVnFg4x1EJ9xbsR5-jA_B4k1UIOKKTue/view?usp=sharing 350w,\n/https://drive.google.com/file/d/1JVnFg4x1EJ9xbsR5-jA_B4k1UIOKKTue/view?usp=sharing 700w',
                         sizes: '(min-width: 700px) 700px, 100vw',
                       },
                       sources: [
